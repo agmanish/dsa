@@ -1,0 +1,8 @@
+Suite Rooms:
+13 23 67 79 89 92 167
+Balcony Rooms:
+110 167 287 301 333 345 451
+Outside Rooms:
+15 45 75 99 200 451 499
+Ocean View Rooms:
+111 222 444 499 520 555 666
