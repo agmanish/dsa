@@ -1,8 +1,24 @@
-Suite Rooms:
-13 23 67 79 89 92 167
-Balcony Rooms:
-110 167 287 301 333 345 451
-Outside Rooms:
-15 45 75 99 200 451 499
-Ocean View Rooms:
-111 222 444 499 520 555 666
+Sorted ID List: (Suite)
+13, 23, 67, 79, 89, 92, 167, 333, 345, 451, 520, 788, 890
+Median Element: 167
+
+Sorted ID List: (Balcony)
+110, 287, 301, 333, 345, 451, 499, 520, 673, 788, 888, 890
+Median Element: 499
+
+Sorted ID List: (Outside)
+15, 45, 75, 99, 200, 520, 673, 788, 812, 888, 890
+Median Element: 520
+
+Sorted ID List: (Ocean View)
+111, 222, 444, 555, 666, 673, 777, 788, 812, 888, 890
+Median Element: 673
+
+Sorted ID List: (Interior)
+10, 29, 101, 350, 500, 777, 788, 812, 888, 890, 999
+Median Element: 777
+
+
+Suite rooms were allocated to : 13, 23, 67, 79, 89, 92
+Outside rooms were allocated to : 15, 45, 75, 99, 200
+Ocean View rooms were allocated to : 111, 222, 444, 555, 666
